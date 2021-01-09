@@ -1,0 +1,34 @@
+{
+  "name": "Railmap.",
+  "info": {"version": "3.0.0-beta3","last_update": 1579155557},
+  "id": "46346c91-90dd-44fc-aa6b-0fe9e90b6c30",
+  "features": [
+    {
+      "name": "Rail Map February 2020",
+      "creator": "UnrealJesus, DarkyDu, MadDog443",
+      "web": "https://www.reddit.com/r/CivRealms/comments/fj10hl/comprehensive_rail_horse_and_waterways_map_feb/",
+      "map_image": {
+        "url": "https://i.redd.it/gifq7hff4um41.png",
+        "bounds": [[-3072,-14208],[10623,1919]]
+      },
+      "id": "11dd43e7-ff2d-4e2b-980f-10fb32c00730"
+    }
+  ],
+  "presentations": [
+    {
+      "name": "Rail Map January 2020",
+      "zoom_styles": {
+        "-6": {
+          "opacity": {
+            "feature_key": "id",
+            "default": 0,
+            "categories": {
+              "11dd43e7-ff2d-4e2b-980f-10fb32c00730": 0.65
+            }
+          }
+        },
+        "-1": { "opacity": 0 }
+      }
+    }
+  ]
+}

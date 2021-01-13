@@ -1,7 +1,7 @@
 CivUniverse Map Data
 ==========
 
-## How to submit a change
+## How to contribute City Location Data
 
 > Note: To add data to the spreadsheet, just comment in a empty slot.
 

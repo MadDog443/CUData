@@ -113,6 +113,6 @@
 	{"name": "ubcd's dupe stash", "x": 3500, "z": 5500, "nation": "ubcd's dupe stash", "contact": "screaming#4508", "wiki": "https://civuniverse.miraheze.org/wiki/Ubcd%27s_dupe_stash", "visitors": "ask beforehand", "Zoom Visibility": 3, "id": "S14", "notes": "haunted by the ghosts of banned players"},
 	{"name": "Versailles", "x": 4150, "z": 2450, "nation": "Paris", "contact": "KingOfTheMochas#7655", "discord": "https://discord.gg/fuUBweXNvm", "visitors": "welcome", "Zoom Visibility": 1, "id": "S25", "notes": "Capital", "nickname": "Paris"},
 	{"name": "Wyvern Crownlands", "x": -738, "z": 7895, "nation": "Wyvern", "contact": "Seekinq#7209", "discord": "https://discord.gg/CBv5QEQ", "visitors": "welcome", "Zoom Visibility": 1, "id": "S22", "notes": "Capital", "nickname": "W.C."},
-	{"name": "Hebun Shima", "x": -1003, "z": 2724, "nation": "Hebun Shima", "contact": "Poortea#3014", "visitors": "welcome", "Zoom Visibility": 1, "id": "S297", "notes": "Capital", "nickname": "Hebun Shima"},
+	{"name": "Hebun Shima", "x": -1000, "z": 2724, "nation": "Hebun Shima", "contact": "ADM1RE#5587", "discord": "https://discord.gg/nqDvug2FhP", "visitors": "welcome", "Zoom Visibility": 1, "id": "S297", "notes": "Capital", "nickname": "Hebun Shima"},
 	{"name": "Mount Augusta", "x": 2125, "z": 2211, "nation": "Mt. Augusta", "contact": "[TCS] citylion#3257", "discord": "https://discord.gg/WBVTyme7FZ", "visitors": "welcome", "Zoom Visibility": 1, "id": "S245", "notes": "Capital", "nickname": "MTA"}
 ]}

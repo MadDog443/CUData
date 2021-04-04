@@ -18,7 +18,7 @@
     {
       "name": "Political Map February 2021",
       "zoom_styles": {
-        "0": {
+        "-6": {
           "opacity": {
             "feature_key": "id",
             "default": 0,

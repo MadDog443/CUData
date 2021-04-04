@@ -117,6 +117,7 @@
 	{"name": "ubcd's dupe stash", "x": 3500, "z": 5500, "nation": "ubcd's dupe stash", "contact": "screaming#4508", "wiki": "https://civuniverse.miraheze.org/wiki/Ubcd%27s_dupe_stash", "visitors": "ask beforehand", "Zoom Visibility": 3, "id": "S28", "notes": "haunted by the ghosts of banned players"}, 
 	{"name": "Versailles", "x": 4150, "z": 2450, "nation": "Paris", "contact": "KingOfTheMochas#7655", "discord": "https://discord.gg/fuUBweXNvm", "visitors": "welcome", "Zoom Visibility": 1, "id": "S29", "notes": "Capital", "nickname": "Paris"}, 
 	{"name": "Wyvern Crownlands", "x": -738, "z": 7895, "nation": "Wyvern", "contact": "Seekinq#7209", "discord": "https://discord.gg/CBv5QEQ", "visitors": "welcome", "Zoom Visibility": 1, "id": "S30", "notes": "Capital"},
-	{"name": "Mount Augusta", "x": 2125, "z": 2211, "nation": "Mt. Augusta", "contact": "[TCS] citylion#3257", "discord": "https://discord.gg/WBVTyme7FZ", "visitors": "welcome", "Zoom Visibility": 1, "id": "S245", "notes": "Capital", "nickname": "MTA"},
-	{"name": "Hanoi", "x": 4250, "z": 3550, "nation": "Paris", "contact": "BooBooBaloney#8454", "discord": "https://discord.gg/fuUBweXNvm", "visitors": "welcome", "Zoom Visibility": 2, "id": "S296", "notes": "City"}
+	{"name": "Mount Augusta", "x": 2125, "z": 2211, "nation": "Mt. Augusta", "contact": "[TCS] citylion#3257", "discord": "https://discord.gg/WBVTyme7FZ", "visitors": "welcome", "Zoom Visibility": 1, "id": "S31", "notes": "Capital", "nickname": "MTA"},
+	{"name": "Hanoi", "x": 4250, "z": 3550, "nation": "Paris", "contact": "BooBooBaloney#8454", "discord": "https://discord.gg/fuUBweXNvm", "visitors": "welcome", "Zoom Visibility": 2, "id": "S32", "notes": "City"}
+	{"name": "Apollo", "x": -5498, "z": 10228, "nation": "Hyperborean Confederation", "contact": "Kamikaze#7404", "discord": "https://discord.gg/KdDsswqp8R", "visitors": "welcome", "Zoom Visibility": 3, "id": "S33", "notes": "Province Capital"}
 ]}

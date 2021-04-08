@@ -18,12 +18,7 @@
           "feature_key": "Zoom Visibility",
           "categories": {
             "1": 16,
-            "2": 14,
-<<<<<<< HEAD
-            "5": 13
-=======
-	    "5": 14
->>>>>>> parent of 8263588 (unfuck)
+            "2": 14
           }
         },
         "icon": "circle",
@@ -36,21 +31,6 @@
           "categories": {
             "1": 2,
             "2": 2
-          }
-        },
-        "icon": "vault",
-        "label": "$name",
-        "opacity": 0,
-        "stroke_color": "#ff0000",
-        "stroke_width": {
-          "default": null,
-          "feature_key": "Zoom Visibility",
-          "categories": {
-<<<<<<< HEAD
-            "5": "https://cdn.discordapp.com/attachments/822336336525525002/829846967801741362/ender_pearl.png"
-=======
-            "5": "https://cdn.discordapp.com/attachments/822336336525525002/829846967801741362/ender_pearl.png",
->>>>>>> parent of 8263588 (unfuck)
           }
         }
       },
@@ -115,15 +95,9 @@
 	{"name": "Gemini", "x": -5824, "z": 11003, "nation": "Hyperborean Confederation", "contact": "SpacemanSpleef#0212", "discord": "https://discord.gg/RurmRq9b4F", "visitors": "welcome", "Zoom Visibility": 2, "id": "S6", "notes": "Capital"}, 
 	{"name": "Goldcrest City", "x": 1850, "z": 9350, "contact": "TheJmqn", "image": "https://cdn.discordapp.com/attachments/766823866362101773/797249737475489802/2021-01-08_18.45.41.png", "discord": "https://discord.gg/6kSvGZ7", "wiki": "https://civuniverse.miraheze.org/wiki/Goldcrest", "symbol": "https://cdn.discordapp.com/attachments/766823866362101773/766824976832790568/GoldcrestFlag.png", "visitors": "welcome", "Zoom Visibility": 3, "id": "S7", "notes": "Newfriends Welcome", "nickname": "Goldcrest Ruins"}, 
 	{"name": "Hebun Shima", "x": -1003, "z": 2724, "nation": "Hebun Shima", "contact": "ADM1RE#5587", "discord": "https://discord.gg/nqDvug2FhP", "visitors": "welcome", "Zoom Visibility": 1, "id": "S8", "notes": "Capital"}, 
-<<<<<<< HEAD
-	{"name": "HellYeah", "x": -2600, "z": 3900, "nation": "Hebun Shima", "contact": "ADM1RE#5587", "discord": "https://discord.gg/nqDvug2FhP", "visitors": "KEEP OUT", "Zoom Visibility": 5, "id": "S9", "notes": "Vault"},
+	{"name": "HellYeah", "x": -2600, "z": 3900, "nation": "Hebun Shima", "contact": "ADM1RE#5587", "discord": "https://discord.gg/nqDvug2FhP", "visitors": "KEEP OUT", "Zoom Visibility": 3, "id": "S9", "notes": "Vault"}, 
 	{"name": "Hloma", "x": 217, "z": 7248, "nation": "Savaguard", "contact": "Invader#1744", "image": "https://i.imgur.com/LMvbLK9.png", "image_album": "https://imgur.com/gallery/QAM2PB8", "discord": "https://discord.gg/ZbsSkRYkvJ", "symbol": "https://i.imgur.com/IcDbnqS.png", "visitors": "ask beforehand", "Zoom Visibility": 1, "id": "S10", "notes": "Capital", "nickname": "Sava"}, 
-	{"name": "Incentivault", "x": -1800, "z": 3609, "nation": "Incentives", "contact": "Evann#3002", "discord": "https://discord.gg/2wnBqG7QQD", "visitors": "KEEP OUT", "Zoom Visibility": 5, "id": "S11", "notes": "Vault"},
-=======
-	{"name": "HellYeah", "x": -2600, "z": 3900, "nation": "Hebun Shima", "contact": "ADM1RE#5587", "discord": "https://discord.gg/nqDvug2FhP", "visitors": "KEEP OUT", "Zoom Visibility": 5, "id": "S9", "notes": "Vault"}, 
-	{"name": "Hloma", "x": 217, "z": 7248, "nation": "Savaguard", "contact": "Invader#1744", "image": "https://i.imgur.com/LMvbLK9.png", "image_album": "https://imgur.com/gallery/QAM2PB8", "discord": "https://discord.gg/ZbsSkRYkvJ", "symbol": "https://i.imgur.com/IcDbnqS.png", "visitors": "ask beforehand", "Zoom Visibility": 1, "id": "S10", "notes": "Capital", "nickname": "Sava"}, 
-	{"name": "Incentivault", "x": -1800, "z": 3609, "nation": "Incentives", "contact": "Evann#3002", "discord": "https://discord.gg/2wnBqG7QQD", "visitors": "KEEP OUT", "Zoom Visibility": 5, "id": "S11", "notes": "Vault"}, 
->>>>>>> parent of 8263588 (unfuck)
+	{"name": "Incentivault", "x": -1800, "z": 3609, "nation": "Incentives", "contact": "Evann#3002", "discord": "https://discord.gg/2wnBqG7QQD", "visitors": "KEEP OUT", "Zoom Visibility": 3, "id": "S11", "notes": "Vault"}, 
 	{"name": "Kattegat", "x": -338, "z": 9346, "nation": "Mandalore", "contact": "Shamus/Joseph", "discord": "https://discord.gg/pSbQYEBK", "visitors": "ask beforehand", "Zoom Visibility": 1, "id": "S12", "notes": "Capital"}, 
 	{"name": "Maple City", "x": 2600, "z": -1075, "nation": "Maple", "contact": "Customer Service#9912", "discord": "https://discord.gg/gK5X5Bw6AY", "Zoom Visibility": 1, "id": "S13", "notes": "Capital", "nickname": "Maple"}, 
 	{"name": "Montana", "x": 4054, "z": 10734, "nation": "Mandalore", "contact": "Shamus/Joseph", "discord": "https://discord.gg/pSbQYEBK", "visitors": "ask beforehand", "Zoom Visibility": 2, "id": "S14", "notes": "Holy Land"}, 
@@ -146,5 +120,5 @@
 	{"name": "Mount Augusta", "x": 2125, "z": 2211, "nation": "Mt. Augusta", "contact": "[TCS] citylion#3257", "discord": "https://discord.gg/WBVTyme7FZ", "visitors": "welcome", "Zoom Visibility": 1, "id": "S31", "notes": "Capital", "nickname": "MTA"},
 	{"name": "Hanoi", "x": 4250, "z": 3550, "nation": "Paris", "contact": "BooBooBaloney#8454", "discord": "https://discord.gg/fuUBweXNvm", "visitors": "welcome", "Zoom Visibility": 2, "id": "S32", "notes": "City"},
 	{"name": "Apollo", "x": -5498, "z": 10228, "nation": "Hyperborean Confederation", "contact": "Kamikaze#7404", "discord": "https://discord.gg/KdDsswqp8R", "visitors": "welcome", "Zoom Visibility": 2, "id": "S33", "notes": "Province Capital"},
-	{"name": "Valhalla", "x": -240, "z": 9518, "nation": "Mandalore", "contact": "Shamus#1337", "discord": "https://discord.gg/pSbQYEBK", "visitors": "KEEP OUT", "Zoom Visibility": 5, "id": "S34", "notes": "Vault"}
+	{"name": "Valhalla", "x": -240, "z": 9518, "nation": "Mandalore", "contact": "Shamus#1337", "discord": "https://discord.gg/pSbQYEBK", "visitors": "KEEP OUT", "Zoom Visibility": 3, "id": "S34", "notes": "Vault"}
 ]}

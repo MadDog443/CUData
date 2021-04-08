@@ -14,11 +14,11 @@
           }
         },
         "icon_size": {
-          "default": 12,
+          "default": 10,
           "feature_key": "Zoom Visibility",
           "categories": {
-            "1": 16,
-            "2": 16
+            "1": 14,
+            "2": 12
           }
         },
         "icon": "circle",

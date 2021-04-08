@@ -14,10 +14,10 @@
           }
         },
         "icon_size": {
-          "default": 10,
+          "default": 12,
           "feature_key": "Zoom Visibility",
           "categories": {
-            "1": 14,
+            "1": 16,
             "2": 12
           }
         },

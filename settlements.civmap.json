@@ -18,7 +18,8 @@
           "feature_key": "Zoom Visibility",
           "categories": {
             "1": 16,
-            "2": 14
+            "2": 14,
+	    "5": 14
           }
         },
         "icon": "circle",
@@ -31,6 +32,17 @@
           "categories": {
             "1": 2,
             "2": 2
+          }
+        }
+        "icon": "vault",
+        "label": "$name",
+        "opacity": 0,
+        "stroke_color": "#ff0000",
+        "stroke_width": {
+          "default": null,
+          "feature_key": "Zoom Visibility",
+          "categories": {
+            "5": "https://cdn.discordapp.com/attachments/822336336525525002/829846967801741362/ender_pearl.png",
           }
         }
       },

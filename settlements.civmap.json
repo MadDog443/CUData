@@ -21,7 +21,7 @@
             "2": 14
           }
         },
-        "icon": {"categories": {"true": "https://cdn.discordapp.com/attachments/822336336525525002/829846967801741362/ender_pearl.png"}, "default": "circle", "property": "is_vault"}
+        "icon": {"categories": {"true": "https://cdn.discordapp.com/attachments/822336336525525002/829846967801741362/ender_pearl.png"}, "default": "circle", "feature_key": "is_vault"}
       },
       "style_highlight": {
         "opacity": 1,

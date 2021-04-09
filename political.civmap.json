@@ -1,10 +1,10 @@
 {
-  "name": "Political: Nations, Claims",
+  "name": "Claims Map - 3/26/2021",
   "info": {"version": "3.0.0-beta3","last_update": 1584470573},
   "id": "46346c91-90dd-44fc-aa6b-0fe9e90b6c96",
   "features": [
     {
-      "name": "Political Map - 3/26/2021",
+      "name": "Claims Map - 3/26/2021",
       "creator": "TWINKIEminer",
       "web": "https://t-winkie.com",
       "map_image": {
@@ -16,7 +16,7 @@
   ],
   "presentations": [
     {
-      "name": "Political 3/26/2021"
+      "name": "Claims Map - 3/26/2021"
     }
   ]
 }

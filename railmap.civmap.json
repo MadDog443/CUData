@@ -1,5 +1,5 @@
 {
-  "name": "Railmap.",
+  "name": "Rail Map - 3/30/2021",
   "info": {"version": "3.0.0-beta3","last_update": 1579155557},
   "id": "46346c91-90dd-44fc-aa6b-0fe9e90b6c30",
   "features": [
@@ -16,7 +16,7 @@
   ],
   "presentations": [
     {
-      "name": "Rail Map 3/30/2021"
+      "name": "Rail Map - 3/30/2021"
     }
   ]
 }

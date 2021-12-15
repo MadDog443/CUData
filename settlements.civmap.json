@@ -109,6 +109,5 @@
 	{"name": "Mount Augusta", "x": 2125, "z": 2211, "nation": "Mt. Augusta", "contact": "[TCS] citylion#3257", "discord": "https://discord.gg/WBVTyme7FZ", "visitors": "welcome", "Zoom Visibility": 1, "id": "S31", "notes": "Capital", "nickname": "MTA"},
 	{"name": "Hanoi", "x": 4250, "z": 3550, "nation": "Paris", "contact": "BooBooBaloney#8454", "discord": "https://discord.gg/fuUBweXNvm", "visitors": "welcome", "Zoom Visibility": 2, "id": "S32", "notes": "City"},
 	{"name": "Apollo", "x": -5498, "z": 10228, "nation": "Hyperborean Confederation", "contact": "Kamikaze#7404", "discord": "https://discord.gg/KdDsswqp8R", "visitors": "welcome", "Zoom Visibility": 2, "id": "S33", "notes": "Province Capital"},
-	{"name": "Valhalla", "x": -240, "z": 9518, "nation": "Mandalore", "contact": "Shamus#1337", "discord": "https://discord.gg/pSbQYEBK", "visitors": "KEEP OUT", "is_vault": true, "id": "S34", "notes": "Vault"},
-	{"name": "Fortuna", "x": 0, "z": 0, "nation": "Fortuna", "contact": "ComradeNick#9912", "image": "", "image_album": "", "discord": "https://discord.gg/j4Va2MCtef", "web": "", "wiki": "", "symbol": "https://media.discordapp.net/attachments/919153946503831552/919160878585233448/Fortuna_flag.png", "visitors": "welcome", "Zoom Visibility": "1", "id": "S1", "notes": "", "nickname": "", "type": "Capitol"}
+	{"name": "Valhalla", "x": -240, "z": 9518, "nation": "Mandalore", "contact": "Shamus#1337", "discord": "https://discord.gg/pSbQYEBK", "visitors": "KEEP OUT", "is_vault": true, "id": "S34", "notes": "Vault"}
 ]}
